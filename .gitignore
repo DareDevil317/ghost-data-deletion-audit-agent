@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+code/outputs/
+code.zip
+code/cache/
+log.txt

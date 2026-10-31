@@ -1,0 +1,6 @@
+case_id,email,requested_at,reported_status,reported_at,audit_at,request_text,based_on
+custom_01,noah.f438085@outlook.com,2026-08-27T12:00:00Z,NOT_STARTED,2026-08-30T12:00:00Z,2026-09-15T12:00:00Z,"Quisiera descargar una copia de mis datos personales. Por favor, no borren ni cierren mi cuenta.",case_29
+custom_02,NOAH.F438085@OUTLOOK.COM,2026-08-27T12:00:00Z,NOT_STARTED,2026-08-30T12:00:00Z,2026-09-15T12:00:00Z,I used a different email on this account before changing it. Please remove records under both addresses and switch off any integration that could copy them back into search or analytics.,case_29
+custom_03,gabriel.costa@proton.me,2026-08-29T20:03:00Z,PARTIALLY_COMPLETE,2026-08-31T13:44:00Z,2026-09-14T16:10:00Z,"I closed my account, but an old ""download your data"" link still works. Please delete that export file, it is the only copy left.",case_08
+custom_04,minjun.kim@gmail.com,2026-08-24T12:00:00Z,COMPLETE,2026-08-25T12:00:00Z,2026-09-15T12:00:00Z,이 이메일 주소에 연결된 계정의 영구 삭제를 요청합니다. 이전 이메일 주소와 연결된 기록도 확인해 주세요.,case_12
+custom_05,keiko.nakamura@gmail.com,2026-09-01T12:00:00Z,COMPLETE,2026-09-02T12:00:00Z,2026-09-15T12:00:00Z,Please do not delete anything yet. I only want to know which systems still hold my profile.,case_24
